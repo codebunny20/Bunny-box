@@ -1,12 +1,14 @@
-# VB-TB (will be called Bunny box in the future)
+# Bunny box
 
-WELCOME TO THE VB-TB REPOSITORY!
-This repository contains the source code for the VB-TB app, which is a tool box for all of your tool needs. The app is designed to be simple and easy to use, with a focus on providing useful functionality to the user. The app is intended to be a tool box for all of the user's tool needs(sadly this will only work on Windows, so my apologies to Mac and Linux users), with a wide variety of tools available for different purposes. i use these tools daily and they have been very useful to me, so i wanted to share them with others who may find them useful as well. The app is still in development, so there may be some bugs and missing features, but i am constantly working on improving it and adding new tools. If you have any suggestions for new tools or features, please feel free to open an issue or submit a pull request. Thank you for checking out the VB-TB repository!
+WELCOME TO THE BUNNY BOX REPOSITORY!
+This repository contains the source code for the Bunny Box app, which is a tool box for all of your tool needs. The app is designed to be simple and easy to use, with a focus on providing useful functionality to the user. The app is intended to be a tool box for all of the user's tool needs(sadly this will only work on Windows, so my apologies to Mac and Linux users), with a wide variety of tools available for different purposes. i use these tools daily and they have been very useful to me, so i wanted to share them with others who may find them useful as well. The app is still in development, so there may be some bugs and missing features, but i am constantly working on improving it and adding new tools. If you have any suggestions for new tools or features, please feel free to open an issue or submit a pull request. Thank you for checking out the Bunny Box repository!
 
 ## notes
-6/10/26: was when i started this newest version of this app, and started with this premise, only visual basic script is used for the tools in this app. The tools are designed to be simple and easy to use, with a focus on providing useful functionality to the user. The app is intended to be a tool box for all of the user's tool needs, with a wide variety of tools available for different purposes.
+6/10/26:
+   was when i started this newest version of this app, and started with this premise, only visual basic script is used for the tools in this app. The tools are designed to be simple and easy to use, with a focus on providing useful functionality to the user. The app is intended to be a tool box for all of the user's tool needs, with a wide variety of tools available for different purposes.
 
-6/16/26: i have decided to add cmd and powershell tools to the app, as i have found that some tools are better suited for those languages. i will still be using visual basic script for some tools, but i will also be adding cmd and powershell tools as well. the app will still be a tool box for all of the user's tool needs, with a wide variety of tools available for different purposes. my fav so far is the system spec tool, which is a cmd tool that dumps all of the system information to a text file. it is very useful for quickly getting a detailed overview of the system.   
+6/16/26:
+   i have decided to add cmd and powershell tools to the app, as i have found that some tools are better suited for those languages. i will still be using visual basic script for some tools, but i will also be adding cmd and powershell tools as well. the app will still be a tool box for all of the user's tool needs, with a wide variety of tools available for different purposes. my fav so far is the system spec tool, which is a cmd tool that dumps all of the system information to a text file. it is very useful for quickly getting a detailed overview of the system.   
 
 ## current tools[8] [6/16/26]
 accessibility tools:
