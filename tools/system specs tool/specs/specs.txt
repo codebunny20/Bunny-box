@@ -1,0 +1,61 @@
+
+Host Name:                     BUNNYHQ
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Windows User
+Registered Organization:       
+Product ID:                    00325-96626-32555-AAOEM
+Original Install Date:         12/6/2024, 8:57:41 PM
+System Boot Time:              6/15/2026, 4:51:15 PM
+System Manufacturer:           ASUS
+System Model:                  System Product Name
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3901 Mhz
+BIOS Version:                  American Megatrends Inc. 3402, 9/18/2023
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:         16,177 MB
+Available Physical Memory:     4,423 MB
+Virtual Memory: Max Size:      35,993 MB
+Virtual Memory: Available:     9,581 MB
+Virtual Memory: In Use:        26,412 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\BUNNYHQ
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5092427
+                               [02]: KB5054156
+                               [03]: KB5094126
+                               [04]: KB5094135
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Realtek 8812AU Wireless LAN 802.11ac USB NIC
+                                     Connection Name: Wi-Fi
+                                     Status:          Media disconnected
+                               [03]: Remote NDIS Compatible Device
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.27.35.3
+                                     IP address(es)
+                                     [01]: 10.27.35.55
+                                     [02]: fe80::8f5c:c8d4:b117:d109
+                                     [03]: 2600:100f:b0c8:4ab3:b49d:6dc7:cc70:f965
+                                     [04]: 2600:100f:b0c8:4ab3:c4a2:9c5c:ed97:4e37
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: No
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes

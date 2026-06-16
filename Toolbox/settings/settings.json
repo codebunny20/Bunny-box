@@ -1,0 +1,7 @@
+// settings.json
+{
+	"appearance_mode": "dark",
+	"color_theme": "blue",
+	"window_width": 400,
+	"window_height": 600
+}
